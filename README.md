@@ -145,7 +145,7 @@ Next, we'll add a paragraph below the title. We'll also add some highlighted
 bits of text to the paragraph to make it stand out a little.
 
 ```html
-<p>
+><p
   We're writing HTML markup to display in our <strong>browser</strong>. We're
   basically telling computers what to do. <em>Neat!</em>
 </p>
